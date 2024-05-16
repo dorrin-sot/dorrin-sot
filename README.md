@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on contributing more to open-source projects and making a couple of my own
 - 📫 How to reach me: dorrinsotoudeh123@gmail.com
-- 😄 Pronouns: they/them/ze/zir
 
 <p align="center">
   <img
