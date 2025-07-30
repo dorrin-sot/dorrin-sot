@@ -10,7 +10,7 @@
     width="55%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorrin-sot&langs_count=6&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorrin-sot&langs_count=6&hide=pkl&theme=radical"
     src="Top Languages"
     width="40%"
   />
